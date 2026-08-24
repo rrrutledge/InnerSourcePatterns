@@ -54,7 +54,7 @@ GitLab treats this as one piece of a broader respect for a contributor's time: a
 
 ## Authors
 
-* TBD
+* Raimund Hook
 
 ## Related Patterns
 
