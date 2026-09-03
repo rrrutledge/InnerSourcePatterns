@@ -12,7 +12,7 @@ Potential contributors who already use a shared project are often the best futur
 
 ## Story
 
-GitLab's DevRel Engineering team runs a program called Co-create. They identify a "high-value contributor" - someone already actively using GitLab's own tooling, with a clear ongoing need - and send one of their engineers to spend a dedicated week working alongside that person on a real feature. The engineer provides a clear guide through the codebase and the entire contribution process, not just pair-programming the code itself. By the end of the week the contributor has independent momentum: a real contribution in flight, a working understanding of how to contribute again unassisted, and in some cases the start of a path to mentoring other contributors themselves.
+GitLab's Co-Create & Community Engineering team runs a program called Co-create. They identify a "high-value contributor" - someone already actively using GitLab's own tooling, with a clear ongoing need - and send one of their engineers to spend a dedicated week working alongside that person on a real feature. The engineer provides a clear guide through the codebase and the entire contribution process, not just pair-programming the code itself. By the end of the week the contributor has independent momentum: a real contribution in flight, a working understanding of how to contribute again unassisted, and in some cases the start of a path to mentoring other contributors themselves.
 
 ## Context
 
@@ -45,7 +45,7 @@ GitLab treats this as one piece of a broader respect for a contributor's time: a
 
 ## Known Instances
 
-* **GitLab** - GitLab's "Co-create" program identifies high-value potential contributors (people already using GitLab's own tooling) and sends an engineer to spend a dedicated week guiding them through their first real contribution, followed by support as they build independent momentum. See: [Break the contribution wall](https://www.youtube.com/watch?v=d3igPlTr4Ag) (InnerSource Commons, 2026, by Raimund Hook).
+* **GitLab** - GitLab's ["Co-create" program](https://about.gitlab.com/community/co-create/) identifies high-value potential contributors (people already using GitLab's own tooling) and sends an engineer to spend a dedicated week guiding them through their first real contribution, followed by support as they build independent momentum. See: [Break the contribution wall](https://www.youtube.com/watch?v=d3igPlTr4Ag) (InnerSource Commons, 2026, by Raimund Hook).
 
 ## Status
 
